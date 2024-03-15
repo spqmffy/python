@@ -1,0 +1,40 @@
+ # print("Hello World!")
+
+#3-2
+
+ # 아래 코드를 복사하세요
+print("오늘은 파이썬 챌린지
+3 일차 입니다)
+print('디버깅 "+"
+연습중입니다')
+print('내일은("금요일" +
+"입니다)')
+print(("그래서 챌린지가
+없습니다"))     
+ print("유선일")
+ input
+print(" 나는" + input("유선일") + "입니다")
+유선일
+#문자열의 길이를 계산하려면? len(s)를 사용한다.
+print(len(input("유선일")
+
+#name
+name = input("유선일")
+length = len(name)
+print(length)
+a = input("a:")
+b = input("b:")
+
+c = a
+a = b
+b = c
+
+print("a ="+ a)
+print("b ="+ b)
+
+ㄱ. var a = 12
+ㄴ. a = 12
+ㄷ. a:12
+ㄹ. 12 = a
+#3일차 종합 챌린지 퀴즈 : 내가 좋아하는 영화를 입력하고, 영화의 주인공을 입력해서내가 좋아하는 영화는 000이고, 주인공은 000다를 출력하세요.
+("아스타")+(("노엘")
